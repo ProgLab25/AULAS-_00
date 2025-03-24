@@ -1,6 +1,6 @@
 # include <stdio.h>
 
-int main()
+int main()                         //estrutura de decisao simples e composta (if-else)
 {
 int numero1 = 10;
 int numero2 = 6;
