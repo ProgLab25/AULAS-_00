@@ -3,7 +3,7 @@
 int main()
 {
 int numero1 = 10;
-int numero2 = 7;
+int numero2 = 6;
 
 if (numero1 > numero2)
 {
