@@ -5,7 +5,7 @@
 int main(){
   int idade;
  
-  printf("Digite sua idade: \n");
+  printf("Digite a sua idade: \n");
   scanf("%d, &idade");
 
 //Criança < 12
