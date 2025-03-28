@@ -1,5 +1,7 @@
 # include <stdio.h>
-                                  
+ //Verificação de idade para classificação étaria.
+ //Programa que classifica a idade de uma pessoa em categorias:criança, adolescenta, adulto ou idoso. 
+ //Para isso seram usadas estruturas encadeadas.
 int main(){
   int idade;
   printf("Digite sua idade: \n");
