@@ -4,6 +4,7 @@
  //Para isso seram usadas estruturas encadeadas.
 int main(){
   int idade;
+ 
   printf("Digite sua idade: \n");
   scanf("%d, &idade");
 
